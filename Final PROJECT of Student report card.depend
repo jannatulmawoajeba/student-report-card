@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1638544815 source:d:\code\c++\final project of student report card\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string.h>
+	<cstdlib>
+	<conio.h>
+
